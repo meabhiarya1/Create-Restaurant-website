@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a61ec67e.css",
+    "main.js": "/static/js/main.49e2c5bd.js",
+    "static/media/restaurant_cafe_design1.jpg": "/static/media/restaurant_cafe_design1.697b9dd0ec865936606d.jpg",
+    "index.html": "/index.html",
+    "main.a61ec67e.css.map": "/static/css/main.a61ec67e.css.map",
+    "main.49e2c5bd.js.map": "/static/js/main.49e2c5bd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a61ec67e.css",
+    "static/js/main.49e2c5bd.js"
+  ]
+}
